@@ -4,6 +4,9 @@
     "cce:/internal/x/prerequisite-imports": "./mods/cce/internal/x/prerequisite-imports.js"
   },
   "scopes": {
+    "./mods/fs/0/assets/TestButton.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
     "./mods/cce/internal/x/cc.js": {
       "__unresolved_0": "cce:/internal/x/cc-fu/base",
       "__unresolved_1": "cce:/internal/x/cc-fu/gfx-webgl",
@@ -32,9 +35,6 @@
     },
     "./mods/cce/internal/x/prerequisite-imports.js": {
       "__unresolved_0": "./mods/fs/0/assets/TestButton.js"
-    },
-    "./mods/fs/0/assets/TestButton.js": {
-      "cc": "./mods/cce/internal/x/cc.js"
     }
   }
 }

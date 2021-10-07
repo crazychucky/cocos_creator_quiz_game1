@@ -1,6 +1,6 @@
 {
   "cce:/internal/x/cc": {
-    "mTimestamp": 29623.353512004018,
+    "mTimestamp": 14826.241143000312,
     "chunkId": "quick-pack:/cce/internal/x/cc.js",
     "imports": [
       {
@@ -389,11 +389,11 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 8678546.613538995,
+    "mTimestamp": 39266.74649000028,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
-        "value": "file:///Users/apple/Develop/cocos-creator/NewProject/assets/TestButton.ts",
+        "value": "file:///Users/apple/Develop/cocos-creator/QuizDemo/assets/TestButton.ts",
         "rewritten": "__unresolved_0",
         "loc": {
           "start": {
@@ -402,7 +402,7 @@
           },
           "end": {
             "line": 5,
-            "column": 110
+            "column": 108
           }
         }
       }
@@ -413,11 +413,46 @@
     "resolvedImports": [
       {
         "isExternal": false,
-        "url": "file:///Users/apple/Develop/cocos-creator/NewProject/assets/TestButton.ts"
+        "url": "file:///Users/apple/Develop/cocos-creator/QuizDemo/assets/TestButton.ts"
       }
     ]
   },
   "file:///Users/apple/Develop/cocos-creator/NewProject/assets/TestButton.ts": {
+    "mTimestamp": 1633499558263.059,
+    "chunkId": "assets/TestButton.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/apple/Develop/cocos-creator/QuizDemo/assets/TestButton.ts": {
     "mTimestamp": 1633499558263.059,
     "chunkId": "assets/TestButton.js",
     "imports": [

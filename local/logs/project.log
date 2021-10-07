@@ -1,74 +1,70 @@
-2021-10-06 11:28:17-log: [Package] menu@1.0.0 enable
-2021-10-06 11:28:17-log: [Package] profile@1.0.0 enable
-2021-10-06 11:28:17-log: [Package] messages@1.0.0 enable
-2021-10-06 11:28:17-log: [Package] program@1.0.0 enable
-2021-10-06 11:28:17-log: [Package] device@1.0.1 enable
-2021-10-06 11:28:17-log: [Package] ui-kit@1.0.1 enable
-2021-10-06 11:28:17-log: [Package] tester@1.0.0 enable
-2021-10-06 11:28:17-log: [Package] preferences@1.0.0 enable
-2021-10-06 11:28:19-log: Setup mods mgr.: 1.110s
-2021-10-06 11:28:19-log: [Package] engine@1.0.5 enable
-2021-10-06 11:28:31-log: [Package] programming@1.0.0 enable
-2021-10-06 11:28:31-log: [Package] asset-db@1.0.0 enable
-2021-10-06 11:28:32-log: [Package] console@1.0.0 enable
-2021-10-06 11:28:32-log: [Package] scene@1.0.0 enable
-2021-10-06 11:28:32-log: [Package] project@1.0.1 enable
-2021-10-06 11:28:32-log: [Package] about@1.0.0 enable
-2021-10-06 11:28:32-log: [Package] server@1.0.0 enable
-2021-10-06 11:28:32-log: [Package] utils@1.0.0 enable
-2021-10-06 11:28:33-log: [Package] assets@1.0.0 enable
-2021-10-06 11:28:33-log: [Package] inspector@1.0.0 enable
-2021-10-06 11:28:33-log: [Package] hierarchy@1.0.0 enable
-2021-10-06 11:28:38-log: [Package] preview@1.0.1 enable
-2021-10-06 11:28:38-log: [Package] animator@1.0.0 enable
-2021-10-06 11:28:41-log: [Package] builder@1.2.9 enable
-2021-10-06 11:28:41-log: [Package] node-library@1.0.0 enable
-2021-10-06 11:28:41-log: [Package] shortcuts@1.0.1 enable
-2021-10-06 11:28:41-log: [Package] package-asset@1.0.0 enable
-2021-10-06 11:28:42-log: [Package] reference-image@1.0.0 enable
-2021-10-06 11:28:42-log: [Package] channel-upload-tools@1.0.0 enable
-2021-10-06 11:28:42-log: [Package] runtime-dev-tools@1.0.0 enable
-2021-10-06 11:28:42-log: [Package] alipay-mini-game@1.0.0 enable
-2021-10-06 11:28:42-log: [Package] android@1.0.0 enable
-2021-10-06 11:28:42-log: [Package] baidu-mini-game@1.0.0 enable
-2021-10-06 11:28:42-log: [Package] bytedance-mini-game@1.0.1 enable
-2021-10-06 11:28:42-log: [Package] huawei-agc@1.0.0 enable
-2021-10-06 11:28:53-log: [Package] ios@1.0.0 enable
-2021-10-06 11:28:53-log: [Package] ios-app-clip@1.0.0 enable
-2021-10-06 11:28:53-log: [Package] mac@1.0.0 enable
-2021-10-06 11:28:54-log: [Package] native@1.0.0 enable
-2021-10-06 11:28:54-log: [Package] ohos@1.0.0 enable
-2021-10-06 11:28:54-log: [Package] web-desktop@1.0.0 enable
-2021-10-06 11:28:55-log: [Package] web-mobile@1.0.0 enable
-2021-10-06 11:28:55-log: [Package] wechatgame@1.0.1 enable
-2021-10-06 11:28:55-log: [Package] windows@1.0.0 enable
-2021-10-06 11:28:55-log: [Package] xiaomi-quick-game@1.0.0 enable
-2021-10-06 11:28:55-log: [Package] cocos-play@1.0.0 enable
-2021-10-06 11:28:55-log: [Package] huawei-quick-game@1.0.0 enable
-2021-10-06 11:28:55-log: [Package] link-sure@1.0.0 enable
-2021-10-06 11:28:55-log: [Package] oppo-mini-game@1.0.0 enable
-2021-10-06 11:28:55-log: [Package] qtt@1.0.0 enable
-2021-10-06 11:28:55-log: [Package] vivo-mini-game@1.0.0 enable
-2021-10-06 11:28:57-log: [Package] cocos-service@3.0.1 enable
-2021-10-06 11:28:57-log: [Package] importer@1.0.0 enable
-2021-10-06 11:28:58-log: [Package] extension@3.0.9 enable
-2021-10-06 11:29:00-log: [Package] im-plugin@3.0.6 enable
-2021-10-06 11:29:00-log: [Package] lightmap@1.0.3 enable
-2021-10-06 11:29:16-warn: Browserslist: caniuse-lite is outdated. Please run:
+2021-10-07 16:36:49-log: [Package] menu@1.0.0 enable
+2021-10-07 16:36:49-log: [Package] profile@1.0.0 enable
+2021-10-07 16:36:49-log: [Package] messages@1.0.0 enable
+2021-10-07 16:36:49-log: [Package] program@1.0.0 enable
+2021-10-07 16:36:49-log: [Package] device@1.0.1 enable
+2021-10-07 16:36:50-log: [Package] ui-kit@1.0.1 enable
+2021-10-07 16:36:50-log: [Package] tester@1.0.0 enable
+2021-10-07 16:36:50-log: [Package] preferences@1.0.0 enable
+2021-10-07 16:36:50-log: Setup mods mgr.: 551.815ms
+2021-10-07 16:36:50-log: [Package] engine@1.0.5 enable
+2021-10-07 16:36:57-log: [Package] programming@1.0.0 enable
+2021-10-07 16:36:57-log: [Package] asset-db@1.0.0 enable
+2021-10-07 16:36:57-log: [Package] console@1.0.0 enable
+2021-10-07 16:36:58-log: [Package] scene@1.0.0 enable
+2021-10-07 16:36:58-log: [Package] project@1.0.1 enable
+2021-10-07 16:36:58-log: [Package] about@1.0.0 enable
+2021-10-07 16:36:58-log: [Package] server@1.0.0 enable
+2021-10-07 16:36:58-log: [Package] utils@1.0.0 enable
+2021-10-07 16:36:58-log: [Package] assets@1.0.0 enable
+2021-10-07 16:36:58-log: [Package] inspector@1.0.0 enable
+2021-10-07 16:36:58-log: [Package] hierarchy@1.0.0 enable
+2021-10-07 16:37:01-log: [Package] preview@1.0.1 enable
+2021-10-07 16:37:02-log: [Package] animator@1.0.0 enable
+2021-10-07 16:37:04-log: [Package] builder@1.2.9 enable
+2021-10-07 16:37:04-log: [Package] node-library@1.0.0 enable
+2021-10-07 16:37:05-log: [Package] shortcuts@1.0.1 enable
+2021-10-07 16:37:05-log: [Package] package-asset@1.0.0 enable
+2021-10-07 16:37:05-log: [Package] reference-image@1.0.0 enable
+2021-10-07 16:37:05-log: [Package] channel-upload-tools@1.0.0 enable
+2021-10-07 16:37:05-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-10-07 16:37:05-log: [Package] alipay-mini-game@1.0.0 enable
+2021-10-07 16:37:05-log: [Package] android@1.0.0 enable
+2021-10-07 16:37:05-log: [Package] baidu-mini-game@1.0.0 enable
+2021-10-07 16:37:05-log: [Package] bytedance-mini-game@1.0.1 enable
+2021-10-07 16:37:05-log: [Package] huawei-agc@1.0.0 enable
+2021-10-07 16:37:12-log: [Package] ios@1.0.0 enable
+2021-10-07 16:37:12-log: [Package] ios-app-clip@1.0.0 enable
+2021-10-07 16:37:12-log: [Package] mac@1.0.0 enable
+2021-10-07 16:37:12-log: [Package] native@1.0.0 enable
+2021-10-07 16:37:12-log: [Package] ohos@1.0.0 enable
+2021-10-07 16:37:12-log: [Package] web-desktop@1.0.0 enable
+2021-10-07 16:37:12-log: [Package] web-mobile@1.0.0 enable
+2021-10-07 16:37:13-log: [Package] wechatgame@1.0.1 enable
+2021-10-07 16:37:13-log: [Package] windows@1.0.0 enable
+2021-10-07 16:37:13-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-10-07 16:37:13-log: [Package] cocos-play@1.0.0 enable
+2021-10-07 16:37:13-log: [Package] huawei-quick-game@1.0.0 enable
+2021-10-07 16:37:13-log: [Package] link-sure@1.0.0 enable
+2021-10-07 16:37:13-log: [Package] oppo-mini-game@1.0.0 enable
+2021-10-07 16:37:13-log: [Package] qtt@1.0.0 enable
+2021-10-07 16:37:13-log: [Package] vivo-mini-game@1.0.0 enable
+2021-10-07 16:37:13-log: [Package] cocos-service@3.0.1 enable
+2021-10-07 16:37:14-log: [Package] importer@1.0.0 enable
+2021-10-07 16:37:14-log: [Package] extension@3.0.9 enable
+2021-10-07 16:37:15-log: [Package] im-plugin@3.0.6 enable
+2021-10-07 16:37:15-log: [Package] lightmap@1.0.3 enable
+2021-10-07 16:37:21-warn: Browserslist: caniuse-lite is outdated. Please run:
 npx browserslist@latest --update-db
 
 Why you should do it regularly:
 https://github.com/browserslist/browserslist#browsers-data-updating
-2021-10-06 11:29:16-log: [Scene] begin init
-2021-10-06 11:29:16-log: [Scene] require engine end
-2021-10-06 11:29:16-log: [Scene] Serialize end
-2021-10-06 11:29:16-log: [Scene] configureStartup end
-2021-10-06 11:29:16-info: [Scene] WebGL2 device initialized.
-2021-10-06 11:29:16-log: [Scene] Cocos Creator v3.3.1
-2021-10-06 11:29:17-info: [Scene] Forward render pipeline initialized.
-2021-10-06 11:29:17-log: [Scene] openEngine end
-2021-10-06 11:29:17-log: [Scene] configureEngine end
-2021-10-06 12:25:00-error: [preview-error]Uncaught TypeError: Cannot read properties of null (reading 'setVisible') in http://localhost:7456/scripting/x/mods/fs/0/assets/TestButton.js
-2021-10-06 12:33:38-error: [preview-error]Uncaught TypeError: Cannot set properties of null (setting 'active') in http://localhost:7456/scripting/x/mods/fs/0/assets/TestButton.js
-2021-10-06 13:51:42-error: [preview-error]Uncaught TypeError: Cannot set properties of null (setting 'active') in http://localhost:7456/scripting/x/mods/fs/0/assets/TestButton.js
-2021-10-06 13:52:51-error: [preview-error]Uncaught TypeError: Cannot set properties of null (setting 'x') in http://localhost:7456/scripting/x/mods/fs/0/assets/TestButton.js
+2021-10-07 16:37:22-log: [Scene] begin init
+2021-10-07 16:37:22-log: [Scene] require engine end
+2021-10-07 16:37:22-log: [Scene] Serialize end
+2021-10-07 16:37:22-log: [Scene] configureStartup end
+2021-10-07 16:37:22-info: [Scene] WebGL2 device initialized.
+2021-10-07 16:37:22-log: [Scene] Cocos Creator v3.3.1
+2021-10-07 16:37:22-info: [Scene] Forward render pipeline initialized.
+2021-10-07 16:37:23-log: [Scene] openEngine end
+2021-10-07 16:37:23-log: [Scene] configureEngine end

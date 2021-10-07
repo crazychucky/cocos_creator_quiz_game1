@@ -1,4 +1,11 @@
 {
+  "assets/TestButton.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/TestButton.js",
+    "mTimestamp": 1633595842828
+  },
   "quick-pack:/cce/internal/x/cc.js": {
     "imports": {
       "__unresolved_0": {
@@ -99,7 +106,7 @@
       }
     },
     "physicalLocation": "cce/internal/x/cc.js",
-    "mTimestamp": 1633490956824,
+    "mTimestamp": 1633595842544,
     "isEntry": true,
     "exposeAs": "cce:/internal/x/cc"
   },
@@ -108,15 +115,8 @@
       "__unresolved_0": "assets/TestButton.js"
     },
     "physicalLocation": "cce/internal/x/prerequisite-imports.js",
-    "mTimestamp": 1633499560679,
+    "mTimestamp": 1633595842570,
     "isEntry": true,
     "exposeAs": "cce:/internal/x/prerequisite-imports"
-  },
-  "assets/TestButton.js": {
-    "imports": {
-      "cc": "quick-pack:/cce/internal/x/cc.js"
-    },
-    "physicalLocation": "fs/0/assets/TestButton.js",
-    "mTimestamp": 1633499560805
   }
 }
