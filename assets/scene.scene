@@ -655,7 +655,7 @@
     "_enabled": true,
     "__prefab": null,
     "btn": {
-      "__id__": 13
+      "__id__": 10
     },
     "_id": "12kxvUhPBJo5ixQBhkL6Kc"
   },
@@ -905,22 +905,23 @@
       "b": 76,
       "a": 255
     },
-    "_fixedArea": false,
+    "_autoAdapt": true,
     "_pcf": 0,
-    "_bias": 0.00001,
+    "_bias": 0.1,
+    "_packing": false,
+    "_linear": true,
+    "_selfShadow": false,
     "_normalBias": 0,
     "_near": 0.1,
     "_far": 10,
-    "_shadowDistance": 100,
-    "_invisibleOcclusionRange": 200,
+    "_aspect": 1,
     "_orthoSize": 5,
     "_maxReceived": 4,
     "_size": {
       "__type__": "cc.Vec2",
       "x": 512,
       "y": 512
-    },
-    "_saturation": 0.75
+    }
   },
   {
     "__type__": "cc.SkyboxInfo",

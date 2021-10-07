@@ -29,6 +29,7 @@ export class TestButton extends Component {
 
     start () {
         // [3]
+      console.log(this.btn);
     }
 
     // update (deltaTime: number) {
@@ -36,9 +37,11 @@ export class TestButton extends Component {
     // }
 
     onClick(){
-      console.log("click");
-      this.btn.x = 50;
-      // this.btn.active = false;
+      console.log("click？");
+      console.log(this);
+      console.log(this.btn);
+      // this.btn.x = 50,
+      this.btn.active = false;
     }
 }
 

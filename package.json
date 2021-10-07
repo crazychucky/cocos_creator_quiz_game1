@@ -1,8 +1,8 @@
 {
+  "creator": {
+    "version": "3.2.1"
+  },
   "name": "NewProject",
   "type": "3d",
-  "uuid": "46202ae2-a2b1-4c35-a575-3d8804206c6b",
-  "creator": {
-    "version": "3.3.1"
-  }
+  "uuid": "46202ae2-a2b1-4c35-a575-3d8804206c6b"
 }
