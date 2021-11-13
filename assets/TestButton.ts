@@ -18,7 +18,10 @@ const { ccclass, property } = _decorator;
 export class TestButton extends Component {
     // 声明 Player 属性
     @property({ type: Node })
-    private btn = null;
+    private lb1 = null;
+
+    @property({ type: Node })
+    private lb2 = null;
     // cc.Node btn;
     // [1]
     // dummy = '';
@@ -27,21 +30,21 @@ export class TestButton extends Component {
     // @property
     // serializableDummy = 0;
 
-    start () {
-        // [3]
-      console.log(this.btn);
-    }
+    // start () {
+    //     // [3]
+    //   // console.log(this.btn);
+    // }
 
     // update (deltaTime: number) {
     //     // [4]
     // }
 
     onClick(){
-      console.log("click？");
-      console.log(this);
-      console.log(this.btn);
+      // console.log("click？");
+      // console.log(this);
+      // console.log(this.btn);
       // this.btn.x = 50,
-      this.btn.active = false;
+      // this.btn.active = false;
     }
 }
 

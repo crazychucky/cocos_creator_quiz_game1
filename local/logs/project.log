@@ -1,23 +1,59 @@
-2021-10-07 20:06:56-log: [Package] menu@1.0.0 enable
-2021-10-07 20:06:56-log: [Package] profile@1.0.0 enable
-2021-10-07 20:06:56-log: [Package] device@1.0.1 enable
-2021-10-07 20:06:56-log: [Package] messages@1.0.0 enable
-2021-10-07 20:06:56-log: [Package] ui-kit@1.0.0 enable
-2021-10-07 20:06:56-log: [Package] program@1.0.0 enable
-2021-10-07 20:06:56-log: [Package] tester@1.0.0 enable
-2021-10-07 20:06:56-log: Setup mods mgr.: 237.961ms
-2021-10-07 20:06:56-log: [Package] preferences@1.0.0 enable
-2021-10-07 20:07:01-log: [Package] programming@1.0.0 enable
-2021-10-07 20:07:01-log: [Package] asset-db@1.0.0 enable
-2021-10-07 20:07:01-log: [Package] console@1.0.0 enable
-2021-10-07 20:07:01-log: [Package] scene@1.0.0 enable
-2021-10-07 20:07:01-log: [Package] project@1.0.1 enable
-2021-10-07 20:07:01-log: [Package] about@1.0.0 enable
-2021-10-07 20:06:56-log: [Package] engine@1.0.5 enable
-2021-10-07 20:07:02-log: [Package] utils@1.0.0 enable
-2021-10-07 20:07:02-log: [Package] assets@1.0.0 enable
-2021-10-07 20:07:02-log: [Package] inspector@1.0.0 enable
-2021-10-07 20:07:02-log: [Package] hierarchy@1.0.0 enable
-2021-10-07 20:07:04-log: [Package] preview@1.0.1 enable
-2021-10-07 20:07:04-log: [Package] animator@1.0.0 enable
-2021-10-07 20:07:02-log: [Package] server@1.0.0 enable
+2021-11-13 14:57:18-log: [Package] Profile Migrate: program@Cocos Creator...
+2021-11-13 14:57:18-log: [Package] Profile Migrate: device@Cocos Creator...
+2021-11-13 14:57:18-log: [Package] Profile Migrate: engine@Cocos Creator...
+2021-11-13 14:57:18-log: [Package] menu@1.0.0 enable
+2021-11-13 14:57:18-log: [Package] profile@1.0.0 enable
+2021-11-13 14:57:18-log: [Package] program@1.0.0 enable
+2021-11-13 14:57:18-log: [Package] messages@1.0.0 enable
+2021-11-13 14:57:18-log: [Package] device@1.0.1 enable
+2021-11-13 14:57:18-log: [Package] ui-kit@1.0.0 enable
+2021-11-13 14:57:18-log: [Package] preferences@1.0.0 enable
+2021-11-13 14:57:18-log: [Package] tester@1.0.0 enable
+2021-11-13 14:57:19-log: Setup mods mgr.: 281.674ms
+2021-11-13 14:57:19-log: [Package] engine@1.0.5 enable
+2021-11-13 14:57:24-log: [Package] programming@1.0.0 enable
+2021-11-13 14:57:25-log: [Package] asset-db@1.0.0 enable
+2021-11-13 14:57:25-log: [Package] console@1.0.0 enable
+2021-11-13 14:57:25-log: [Package] scene@1.0.0 enable
+2021-11-13 14:57:25-log: [Package] project@1.0.1 enable
+2021-11-13 14:57:25-log: [Package] about@1.0.0 enable
+2021-11-13 14:57:26-log: [Package] server@1.0.0 enable
+2021-11-13 14:57:26-warn: Server: Port 7456 is occupied
+2021-11-13 14:57:26-log: [Package] utils@1.0.0 enable
+2021-11-13 14:57:26-log: [Package] assets@1.0.0 enable
+2021-11-13 14:57:26-log: [Package] inspector@1.0.0 enable
+2021-11-13 14:57:26-log: [Package] hierarchy@1.0.0 enable
+2021-11-13 14:57:29-log: [Package] preview@1.0.1 enable
+2021-11-13 14:57:29-log: [Package] animator@1.0.0 enable
+2021-11-13 14:57:30-warn: [Asset DB] Sender does not exist: 27928
+2021-11-13 14:57:30-log: [Package] builder@1.2.8 enable
+2021-11-13 14:57:30-log: [Package] lightmap@1.0.0 enable
+2021-11-13 14:57:30-log: [Package] node-library@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] shortcuts@1.0.1 enable
+2021-11-13 14:57:31-log: [Package] importer@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] package-asset@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] reference-image@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] channel-upload-tools@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] alipay-mini-game@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] android@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] baidu-mini-game@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] bytedance-mini-game@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] huawei-agc@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] ios@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] ios-app-clip@1.0.0 enable
+2021-11-13 14:57:31-log: [Package] mac@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] native@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] ohos@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] web-desktop@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] web-mobile@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] wechatgame@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] windows@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] cocos-play@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] huawei-quick-game@1.0.0 enable
+2021-11-13 14:57:32-log: [Package] link-sure@1.0.0 enable
+2021-11-13 14:57:33-log: [Package] oppo-mini-game@1.0.0 enable
+2021-11-13 14:57:33-log: [Package] qtt@1.0.0 enable
+2021-11-13 14:57:33-log: [Package] vivo-mini-game@1.0.0 enable
+2021-11-13 14:57:34-log: [Package] cocos-service@3.0.1 enable
