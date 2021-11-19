@@ -2778,7 +2778,7 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "time": 567,
+    "_time": 0,
     "_gameStartFlag": false,
     "_id": "e2giyldmhAe7NgFcHi6djf"
   },
@@ -3347,9 +3347,6 @@
     },
     "quizNode": {
       "__id__": 10
-    },
-    "gameController": {
-      "__id__": 89
     },
     "_id": "3by39atNVGa4JQlbq52rOL"
   },
