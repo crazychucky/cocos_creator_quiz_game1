@@ -24,13 +24,14 @@ export class GameController extends Component {
     startQuiz () {
       this._time = 0;
       this._gameStartFlag = true;
+      this.node.emit('start_count_down', 10);
     }
 
 
     update (deltaTime: number) {
       if(this._gameStartFlag){
         this._time = this._time + deltaTime;
-        console.log("Quiz Update:" + this._time);
+        // console.log("Quiz Update:" + this._time);
       }
         // [4]
     }
