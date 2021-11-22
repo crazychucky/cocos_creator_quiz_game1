@@ -39,9 +39,17 @@ export class StartGame extends Component {
       this.titleNode.active = false;
       this.quizNode.active = true;
 
+      let asNode = this.quizNode.getChildByName("Answers")
+      let asList = asNode.children
+      for (let elem of asList) {
+        let prog = elem.getChildByName('prog')
+        let script = prog.getComponent("ProgressCircle");
+        script.startCountDown(10)
+      }
+
       // 获取脚本组件
-      let _gameController = this.quizNode.getComponent('GameController');
-      _gameController.startQuiz()
+      let _quizController = this.quizNode.getComponent('QuizController');
+      _quizController.startQuiz()
       // script.startQuiz()
     }
 }

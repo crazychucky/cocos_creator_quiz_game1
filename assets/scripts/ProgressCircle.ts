@@ -1,5 +1,5 @@
 
-import { _decorator, Component, ProgressBar, CCFloat,CCBoolean } from 'cc';
+import { _decorator, Component, ProgressBar, CCFloat,CCBoolean, assert } from 'cc';
 const { ccclass, property } = _decorator;
 
 @ccclass('ProgressCircle')
@@ -19,14 +19,16 @@ export class ProgressCircle extends Component {
     @property({ type: CCBoolean })
     private _startFlag = false;
 
-    start () {
-        // [3]
-        this.node.on('start_count_down', (arg1) => {
-            console.log(arg1)
-            this._totalTime = arg1
-            this._nowTime = arg1
-            this._startFlag = true
-        });
+    // start () {
+    // }
+
+    startCountDown (duration) {
+        console.log(duration)
+        assert(duration != undefined)
+        this._totalTime = duration
+        this._nowTime = duration
+        this._startFlag = true
+        console.log("start!")
     }
 
     update (deltaTime: number) {
@@ -36,7 +38,7 @@ export class ProgressCircle extends Component {
                 this._nowTime = 0
             }
             let prog = this.getComponent("cc.ProgressBar")
-            prog.Progress = this._nowTime/this._totalTime
+            prog.progress = this._nowTime/this._totalTime
         }
         // [4]
     }

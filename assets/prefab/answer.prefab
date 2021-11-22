@@ -406,7 +406,7 @@
     "customEventData": ""
   },
   {
-    "__type__": "417b3oObbVMD6v+dZBJfEKp",
+    "__type__": "ddfd9ZITuxNu7UzU2/BTn11",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -416,13 +416,12 @@
     "__prefab": {
       "__id__": 17
     },
-    "lb1": null,
-    "lb2": null,
+    "_option": 199,
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "7e2lFzQJ1HkaffM7qtLBpN"
+    "fileId": "96gCA3I+tIZr6KwbG82AkB"
   },
   {
     "__type__": "cc.PrefabInfo",

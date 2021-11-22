@@ -2,8 +2,8 @@
 import { _decorator, Component, CCInteger, CCBoolean } from 'cc';
 const { ccclass, property } = _decorator;
 
-@ccclass('GameController')
-export class GameController extends Component {
+@ccclass('QuizController')
+export class QuizController extends Component {
     // [1]
     // dummy = '';
 
@@ -11,15 +11,22 @@ export class GameController extends Component {
     // @property
     // serializableDummy = 0;
 
-    // start () {
-    //     console.log("Quiz Start")
-    //     // [3]
-    // }
     @property({ type: CCInteger })
     private _time = 0;
 
     @property({})
     private _gameStartFlag = false;
+
+    start () {
+      let asNode = this.node.getChildByName("Answers")
+      let asList = asNode.children
+      for (let elem of asList) {
+        let btn = elem.getChildByName('btn')
+        btn.on('chose_answer', (option,arg2) => {
+              console.log(option,arg2);  // print 1, 2, 3
+          });
+      }
+    }
 
     startQuiz () {
       this._time = 0;
