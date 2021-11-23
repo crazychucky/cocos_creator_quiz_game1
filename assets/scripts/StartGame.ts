@@ -23,8 +23,6 @@ export class StartGame extends Component {
     private quizNode = null;
 
     start () {
-      // this._gameController = 
-      // gameController
     }
 
     // update (deltaTime: number) {
@@ -50,7 +48,6 @@ export class StartGame extends Component {
       // 获取脚本组件
       let _quizController = this.quizNode.getComponent('QuizController');
       _quizController.startQuiz()
-      // script.startQuiz()
     }
 }
 

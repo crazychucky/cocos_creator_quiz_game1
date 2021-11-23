@@ -1,27 +1,18 @@
 
-import { _decorator, Component, CCInteger } from 'cc';
+import { _decorator, Component, Node } from 'cc';
 const { ccclass, property } = _decorator;
 
-@ccclass('AnswerBtn')
-export class AnswerBtn extends Component {
+@ccclass('ResultCheck')
+export class ResultCheck extends Component {
     // [1]
     // dummy = '';
 
     // [2]
     // @property
     // serializableDummy = 0;
-    @property({ type: CCInteger })
-    private _option = 0
 
-
-    setOption (n: number) {
-        this._option = n
-    }
-    onChose () {
-        this.node.emit('chose_answer', this._option);
-    }
     start () {
-      this._option = 0
+        // [3]
     }
 
     // update (deltaTime: number) {

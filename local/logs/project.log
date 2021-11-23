@@ -1,16 +1,18 @@
-2021-11-22 21:37:36-log: [Package] menu@1.0.0 enable
-2021-11-22 21:37:36-log: [Package] profile@1.0.0 enable
-2021-11-22 21:37:36-log: [Package] device@1.0.1 enable
-2021-11-22 21:37:36-log: [Package] messages@1.0.0 enable
-2021-11-22 21:37:36-log: [Package] ui-kit@1.0.0 enable
-2021-11-22 21:37:36-log: [Package] tester@1.0.0 enable
-2021-11-22 21:37:36-log: [Package] program@1.0.0 enable
-2021-11-22 21:37:36-log: Setup mods mgr.: 238.525ms
-2021-11-22 21:37:36-log: [Package] engine@1.0.5 enable
-2021-11-22 21:37:39-log: [Package] programming@1.0.0 enable
-2021-11-22 21:37:39-log: [Package] console@1.0.0 enable
-2021-11-22 21:37:36-log: [Package] preferences@1.0.0 enable
-2021-11-22 21:37:39-log: [Package] project@1.0.1 enable
-2021-11-22 21:37:39-log: [Package] scene@1.0.0 enable
-2021-11-22 21:37:39-log: [Package] about@1.0.0 enable
-2021-11-22 21:37:39-log: [Package] asset-db@1.0.0 enable
+2021-11-23 17:47:55-log: [Package] menu@1.0.0 enable
+2021-11-23 17:47:55-log: [Package] profile@1.0.0 enable
+2021-11-23 17:47:55-log: [Package] messages@1.0.0 enable
+2021-11-23 17:47:55-log: [Package] program@1.0.0 enable
+2021-11-23 17:47:55-log: [Package] device@1.0.1 enable
+2021-11-23 17:47:55-log: [Package] ui-kit@1.0.0 enable
+2021-11-23 17:47:55-log: [Package] tester@1.0.0 enable
+2021-11-23 17:47:55-log: [Package] preferences@1.0.0 enable
+2021-11-23 17:47:55-log: Setup mods mgr.: 279.942ms
+2021-11-23 17:47:55-log: [Package] engine@1.0.5 enable
+2021-11-23 17:47:58-log: [Package] programming@1.0.0 enable
+2021-11-23 17:47:58-log: [Package] asset-db@1.0.0 enable
+2021-11-23 17:47:59-log: [Package] console@1.0.0 enable
+2021-11-23 17:47:59-log: [Package] scene@1.0.0 enable
+2021-11-23 17:47:59-log: [Package] project@1.0.1 enable
+2021-11-23 17:47:59-log: [Package] about@1.0.0 enable
+2021-11-23 17:47:59-log: [Package] server@1.0.0 enable
+2021-11-23 17:47:59-log: [Package] utils@1.0.0 enable
