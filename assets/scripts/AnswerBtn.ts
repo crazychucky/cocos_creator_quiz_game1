@@ -20,7 +20,7 @@ export class AnswerBtn extends Component {
     onChose () {
         this.node.emit('chose_answer', this._option);
     }
-    start () {
+    onLoad () {
       this._option = 0
     }
 

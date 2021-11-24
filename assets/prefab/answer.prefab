@@ -401,8 +401,8 @@
       "__id__": 2
     },
     "component": "",
-    "_componentId": "417b3oObbVMD6v+dZBJfEKp",
-    "handler": "onClick",
+    "_componentId": "ddfd9ZITuxNu7UzU2/BTn11",
+    "handler": "onChose",
     "customEventData": ""
   },
   {
@@ -416,12 +416,12 @@
     "__prefab": {
       "__id__": 17
     },
-    "_option": 199,
+    "_option": 0,
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "96gCA3I+tIZr6KwbG82AkB"
+    "fileId": "feEJgvTm9HRrCaw4aAxmHT"
   },
   {
     "__type__": "cc.PrefabInfo",

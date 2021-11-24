@@ -23,12 +23,10 @@ export class ProgressCircle extends Component {
     // }
 
     startCountDown (duration) {
-        console.log(duration)
         assert(duration != undefined)
         this._totalTime = duration
         this._nowTime = duration
         this._startFlag = true
-        console.log("start!")
     }
 
     update (deltaTime: number) {
