@@ -1,17 +1,22 @@
-2021-11-24 08:42:43-log: [Package] menu@1.0.0 enable
-2021-11-24 08:42:43-log: [Package] profile@1.0.0 enable
-2021-11-24 08:42:43-log: [Package] messages@1.0.0 enable
-2021-11-24 08:42:43-log: [Package] program@1.0.0 enable
-2021-11-24 08:42:43-log: [Package] device@1.0.1 enable
-2021-11-24 08:42:43-log: [Package] ui-kit@1.0.0 enable
-2021-11-24 08:42:43-log: [Package] tester@1.0.0 enable
-2021-11-24 08:42:43-log: [Package] preferences@1.0.0 enable
-2021-11-24 08:42:44-log: Setup mods mgr.: 657.924ms
-2021-11-24 08:42:44-log: [Package] engine@1.0.5 enable
-2021-11-24 08:42:47-log: [Package] programming@1.0.0 enable
-2021-11-24 08:42:47-log: [Package] asset-db@1.0.0 enable
-2021-11-24 08:42:47-log: [Package] console@1.0.0 enable
-2021-11-24 08:42:47-log: [Package] scene@1.0.0 enable
-2021-11-24 08:42:47-log: [Package] project@1.0.1 enable
-2021-11-24 08:42:47-log: [Package] about@1.0.0 enable
-2021-11-24 08:42:47-log: [Package] server@1.0.0 enable
+2021-11-25 13:52:34-log: [Package] menu@1.0.0 enable
+2021-11-25 13:52:34-log: [Package] program@1.0.0 enable
+2021-11-25 13:52:34-log: [Package] profile@1.0.0 enable
+2021-11-25 13:52:34-log: [Package] messages@1.0.0 enable
+2021-11-25 13:52:34-log: [Package] device@1.0.1 enable
+2021-11-25 13:52:35-log: [Package] tester@1.0.0 enable
+2021-11-25 13:52:35-log: [Package] preferences@1.0.0 enable
+2021-11-25 13:52:35-log: [Package] ui-kit@1.0.0 enable
+2021-11-25 13:52:36-log: Setup mods mgr.: 699.491ms
+2021-11-25 13:52:36-log: [Package] engine@1.0.5 enable
+2021-11-25 13:52:40-log: [Package] programming@1.0.0 enable
+2021-11-25 13:52:40-log: [Package] asset-db@1.0.0 enable
+2021-11-25 13:52:40-log: [Package] console@1.0.0 enable
+2021-11-25 13:52:40-log: [Package] scene@1.0.0 enable
+2021-11-25 13:52:40-log: [Package] project@1.0.1 enable
+2021-11-25 13:52:40-log: [Package] about@1.0.0 enable
+2021-11-25 13:52:41-log: [Package] server@1.0.0 enable
+2021-11-25 13:52:41-warn: Server: Port 7456 is occupied
+2021-11-25 13:52:41-log: [Package] utils@1.0.0 enable
+2021-11-25 13:52:41-log: [Package] assets@1.0.0 enable
+2021-11-25 13:52:41-log: [Package] inspector@1.0.0 enable
+2021-11-25 13:52:41-log: [Package] hierarchy@1.0.0 enable
